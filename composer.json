@@ -1,0 +1,17 @@
+{
+    "name": "sanji/new-tec-box",
+    "autoload": {
+        "psr-4": {
+            "Sanji\\NewTecBox\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "RasenBunkai",
+            "email": "sanjixenon553@outlook.com"
+        }
+    ],
+    "require": {
+        "illuminate/database": "^11.35"
+    }
+}
