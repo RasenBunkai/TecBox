@@ -20,7 +20,7 @@ TecBox es un proyecto diseñado para proporcionar soluciones tecnológicas innov
 3. Configura el entorno en XAMPP y asegúrate de que Apache y MySQL estén corriendo.
 
 ## Uso
-1. Abre tu navegador y navega al `[DashBoard](http://localhost/newtecbox/app/views/Dashboard.php)`.
+1. Abre tu navegador y navega al [DashBoard](http://localhost/newtecbox/app/views/Dashboard.php).
 2. Sigue las instrucciones en pantalla para comenzar a usar la aplicación.
 
 ## Contribución
