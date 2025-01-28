@@ -1,7 +1,6 @@
 # TecBox
-
-## Descripción
-TecBox es un proyecto diseñado para proporcionar soluciones tecnológicas innovadoras. Este repositorio contiene el código fuente y la documentación necesaria para entender y contribuir al proyecto.
+![TecBox MockUp](TecBox_Mockup.png)
+TecBox es una aplicación web diseñada para gestionar y organizar proyectos técnicos. Permite a los usuarios crear, editar y eliminar proyectos, así como asignar tareas y hacer seguimiento del progreso. La aplicación está construida utilizando PHP y MySQL, y se ejecuta en un entorno XAMPP. Es ideal para equipos de desarrollo que buscan una solución sencilla y eficiente para la gestión de proyectos.
 
 ## Requisitos
 - XAMPP

@@ -12,7 +12,7 @@
 <body>
     <?php require_once "../components/NavBarNoAuth.php";?>
     <h1 class="text-4xl text-center mt-7">Simplifica tu gestión con nuestra Bitácora Digital</h1>
-    <p class="text-center mt-5">¿Qué puedes hacer con TecBox? </p>
+    <h2 class="text-center mt-5 font-semibold text-lg">¿Qué puedes hacer con TecBox?</h2>
     <div class="flex container gap-5 mx-auto my-10">
         <div class="max-w-sm bg-white border border-gray-200 rounded-lg shadow">
             <img class="rounded-t-lg" src="../../public/img/Graduados.jpg" alt="" />
